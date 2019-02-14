@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Alerta GPS</string>
+    <string name="google_maps_key">AIzaSyCeGoY0qvtWy0eSLTM6msWjBv7h_3vrcXQ</string>
+
+    <string-array name="array_distancias">
+        <item>10 Km</item>
+        <item>25 Km</item>
+        <item>50 Km</item>
+        <item>100 Km</item>
+        <item>250 Km</item>
+        <item>500 Km</item>
+    </string-array>
+
+    <string-array name="array_tempos">
+        <item>30 seg</item>
+        <item>60 seg</item>
+        <item>90 seg</item>
+        <item>120 seg</item>
+        <item>150 seg</item>
+        <item>180 seg</item>
+    </string-array>
+</resources>
